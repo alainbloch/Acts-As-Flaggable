@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2009-05-10T12:25:29.187565Z"
+   url="http://svn.vps144.speedyrails.ca/americanboom/trunk/vendor/plugins/acts_as_flaggable"
+   last-author="deploy"
+   kind="dir"
+   uuid="113148dd-3bcf-439a-89d1-59e01363aeb4"
+   repos="http://svn.vps144.speedyrails.ca/americanboom"
+   revision="211"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="Rakefile"
+   text-time="2009-07-10T00:01:16.000000Z"
+   committed-date="2009-05-10T12:25:29.187565Z"
+   checksum="4fd945193eb94cc214f5cd8aa5544abd"
+   last-author="deploy"
+   kind="file"
+   prop-time="2009-07-10T00:01:16.000000Z"/>
+<entry
+   name="tasks"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="init.rb"
+   text-time="2009-07-10T00:01:16.000000Z"
+   committed-date="2009-05-10T12:25:29.187565Z"
+   checksum="a30bd2e5de9d5ffd32dc7dd9f935c8dc"
+   last-author="deploy"
+   kind="file"
+   prop-time="2009-07-10T00:01:16.000000Z"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="install.rb"
+   text-time="2009-07-10T00:01:16.000000Z"
+   committed-date="2009-05-10T12:25:29.187565Z"
+   checksum="cbe738c10eba4ae2da8c6859c9723e44"
+   last-author="deploy"
+   kind="file"
+   prop-time="2009-07-10T00:01:16.000000Z"/>
+<entry
+   committed-rev="2"
+   name="MIT-LICENSE"
+   text-time="2009-07-10T00:01:16.000000Z"
+   committed-date="2009-05-10T12:25:29.187565Z"
+   checksum="ef8a8411d1f142aee549cd9a00a720d5"
+   last-author="deploy"
+   kind="file"
+   prop-time="2009-07-10T00:01:16.000000Z"/>
+<entry
+   committed-rev="2"
+   name="uninstall.rb"
+   text-time="2009-07-10T00:01:16.000000Z"
+   committed-date="2009-05-10T12:25:29.187565Z"
+   checksum="2a5fc883fe7f8dfe22ced24643d59ad4"
+   last-author="deploy"
+   kind="file"
+   prop-time="2009-07-10T00:01:16.000000Z"/>
+<entry
+   committed-rev="2"
+   name="README"
+   text-time="2009-07-10T00:01:16.000000Z"
+   committed-date="2009-05-10T12:25:29.187565Z"
+   checksum="11a0a3cd5ba789557f6c1c8d11b23069"
+   last-author="deploy"
+   kind="file"
+   prop-time="2009-07-10T00:01:16.000000Z"/>
+</wc-entries>

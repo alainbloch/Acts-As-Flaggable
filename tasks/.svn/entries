@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2009-05-10T12:25:29.187565Z"
+   url="http://svn.vps144.speedyrails.ca/americanboom/trunk/vendor/plugins/acts_as_flaggable/tasks"
+   last-author="deploy"
+   kind="dir"
+   uuid="113148dd-3bcf-439a-89d1-59e01363aeb4"
+   repos="http://svn.vps144.speedyrails.ca/americanboom"
+   revision="211"/>
+<entry
+   committed-rev="2"
+   name="acts_as_flaggable_tasks.rake"
+   text-time="2009-07-10T00:01:16.000000Z"
+   committed-date="2009-05-10T12:25:29.187565Z"
+   checksum="2e0b806a2211340646b1c07bf2a8c2e6"
+   last-author="deploy"
+   kind="file"
+   prop-time="2009-07-10T00:01:16.000000Z"/>
+</wc-entries>
